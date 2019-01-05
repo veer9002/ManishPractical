@@ -1,0 +1,6 @@
+framework module Pods_ManishPracticalTests {
+  umbrella header "Pods-ManishPracticalTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
